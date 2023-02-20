@@ -4,8 +4,14 @@ title: $whoami
 order: 2
 ---
 
-## Subtitle 1
-Arcanist
+## Hacker
+---> IoT Hardware
+---> Web Apps
 
-## Subtitle 2
-Artificer
+## Arcanist
+---> Neurodivergency
+---> Chemistry
+
+## Artificer
+---> Leatherwork
+---> Clothing
