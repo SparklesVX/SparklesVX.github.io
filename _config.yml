@@ -32,7 +32,7 @@ twitter_username: sparkles_34_32
 github_username:  SparklesVX
 
 # Build settings
-theme: minima
+theme: jekyll-shell-theme
 plugins:
   - jekyll-feed
   - jekyll-paginate

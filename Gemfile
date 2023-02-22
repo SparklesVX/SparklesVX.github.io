@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # To list current versions: `bundle exec github-pages versions`
 # Check github versions: https://pages.github.com/versions/
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-shell-theme"
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
