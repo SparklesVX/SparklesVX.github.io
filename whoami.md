@@ -5,7 +5,7 @@ title: whoami
 
 <img src="/assets/SparklesLogo.png">
 
-<h2><a href="/Hacker.md">Hacker</a></h2>
+<h1><a href="/Hacker">Hacker</a></h1>
   - Hardware
   - Bio
   - Reverse Engineering
