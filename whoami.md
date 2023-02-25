@@ -3,7 +3,7 @@ layout: page
 title: whoami
 ---
 
-<img> assets/SparklesLogo.png </img>
+<img src="/assets/SparklesLogo.png">
 
 ## Hacker
   - Hardware
