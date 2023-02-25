@@ -3,17 +3,17 @@ layout: page
 title: whoami
 ---
 
->> Hacker
+## Hacker
   - Hardware
   - Bio
   - Reverse Engineering
   
->> Arcanist
+## Arcanist
   - Neurodivergency
   - Bio-Medical
   - Molecular Gastronomy
   
->> Artificer
+## Artificer
   - Electronics
   - Leatherwork
   - Tailoring
