@@ -2,7 +2,9 @@
 layout: page
 title: whoami
 ---
-<img> href="assets/2023-02-17 11_15_23-Window2 (2).png" </img>
+
+<img> assets/SparklesLogo.png </img>
+
 ## Hacker
   - Hardware
   - Bio
