@@ -15,7 +15,7 @@ title: whoami
 
   - Neurodivergency
   - Bio-Medical
-  - Molecular Gastronomy
+  - Mixology & Culinary Arts
  
  <h1><a href="/Artificer">Artificer</a></h1>
 
