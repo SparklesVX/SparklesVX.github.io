@@ -3,14 +3,16 @@ layout: page
 title: whoami
 ---
 
-                                                            <img src="/assets/SparklesLogo.png">
+<img src="/assets/SparklesLogo.png">
 
+```
 <h1><a href="/Hacker">Hacker</a></h1>
 
   - Hardware
   - Bio
   - Reverse Engineering
-  
+```
+
   <h1><a href="/Arcanist">Arcanist</a></h1>
 
   - Neurodivergency
