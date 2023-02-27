@@ -15,7 +15,7 @@ title: whoami
   <h1><a href="/Arcanist">Arcanist</a></h1>
 * * *
   - Neurodivergency
-  - Bio-Medical
+  - BDSM/Kink
   - Mixology & Culinary Arts
  
  <h1><a href="/Artificer">Artificer</a></h1>
@@ -26,5 +26,4 @@ title: whoami
 
 <a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitterlogo.png"></a>
 <a href="mailto:Sparkles@sparcanum.io"><img src="/assets/protonlogo.png"></a>
-<a href="mailto:Sparkles@sparcanum.io"><img src="/assets/discordlogo.png"></a>
-<a href="mailto:Sparkles@sparcanum.io"><img src="/assets/mastodonlogo.png"></a>
+
