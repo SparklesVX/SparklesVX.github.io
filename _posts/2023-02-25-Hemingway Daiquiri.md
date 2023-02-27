@@ -12,4 +12,4 @@ This is a custom variant on a classic Hemingway Daiquiri
 
 SHAKE & STRAIN into a chilled cocktail glass. 
 
-<sup>1</sup> Regan, G. (2018) The Joy of Mixology, Revised and Updated Edition: The Consummate Guide to the Bartender’s Craft. Page, 220. Clarkson Potter.
+<sup>1</sup> *Regan, G. (2018) The Joy of Mixology, Revised and Updated Edition: The Consummate Guide to the Bartender’s Craft. Page, 220. Clarkson Potter.*
