@@ -27,7 +27,7 @@ title: whoami
 <a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitterlogo.png"></a>
 <a href="mailto:Sparkles@sparcanum.io"><img src="/assets/protonlogo.png"></a>
 
-``` JSON
+{% highlight json %}
 {
 "Handle":"Sparkles",
 "Discord Username":"Sparkles#0722",
@@ -35,4 +35,4 @@ title: whoami
 "Twitter Username":"Sparkles_34_32",
 "Github Username":"SparklesVX",
 }
-```
+{% endhighlight %}
