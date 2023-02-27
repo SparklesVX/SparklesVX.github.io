@@ -33,9 +33,11 @@ title: whoami
 "Handle":"Sparkles",
 "Discord Username":"Sparkles#0722",
 "Mastodon Username":"@Sparkles@defcon.social",
-"Twitter Username":<a href="https://twitter.com/sparkles_34_32">"Sparkles_34_32"</a>,
+"Twitter Username":"Sparkles_34_32",
 "Github Username":"SparklesVX",
 "Email":"Sparkles@sparcanum.io",
 
 }
 {% endhighlight %}
+
+{{https://sparklesvx.github.io}}/assets/twitterlogo.jpg
