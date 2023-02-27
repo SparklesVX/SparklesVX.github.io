@@ -24,4 +24,5 @@ title: whoami
   - Leatherwork
   - Tailoring
 
-"<a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitter-logo.jpeg"></a>
+<a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitter-logo.jpeg"></a>
+<a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitter-logo.jpeg"></a>
