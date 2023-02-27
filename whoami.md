@@ -40,4 +40,4 @@ title: whoami
 }
 {% endhighlight %}
 some text and [here is possible to download][1]
-[1]:https://sparklesvx.github.io/assets/twitterlogo.jpg
+[1]:{{ https://sparklesvx.github.io }}/download/detes.json
