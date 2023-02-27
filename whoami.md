@@ -25,4 +25,4 @@ title: whoami
   - Tailoring
 
 <a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitter-logo.jpeg"></a>
-<a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitter-logo.jpeg"></a>
+<a href="Sparkles@sparcanum.io"><img src="/assets/protonlogo.png"></a>
