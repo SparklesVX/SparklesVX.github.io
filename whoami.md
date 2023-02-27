@@ -26,14 +26,14 @@ title: whoami
 
 <a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitterlogo.png"></a>
 
-## Detes
+<h1>Detes</h1>
 * * *
 {% highlight json %}
 {
 "Handle":"Sparkles",
 "Discord Username":"Sparkles#0722",
 "Mastodon Username":"@Sparkles@defcon.social",
-"Twitter Username":"Sparkles_34_32",
+"Twitter Username":<a href="https://twitter.com/sparkles_34_32">"Sparkles_34_32"</a>,
 "Github Username":"SparklesVX",
 "Email":"Sparkles@sparcanum.io",
 
