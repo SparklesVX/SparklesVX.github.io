@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Hemingway Daiquiri"
+date:   2023-02-26 09:22:38 -0600
+categories: Arcanist
+---
+
+
 E. Hemingway Special {CA. 1937} <Sup>1</sup> [Absinthe Variant]
 This is a custom variant on a classic Hemingway Daiquiri 
 
