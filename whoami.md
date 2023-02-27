@@ -26,7 +26,7 @@ title: whoami
 
 <a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitterlogo.png"></a>
 
-<h1>Detes[1]</h1>
+<h1>Detes</h1>
 * * *
 {% highlight json %}
 {
@@ -39,5 +39,5 @@ title: whoami
 
 }
 {% endhighlight %}
-
+some text and [here is possible to download][1]
 [1]:{{https://sparklesvx.github.io}}/assets/twitterlogo.jpg
