@@ -3,9 +3,6 @@ layout: page
 title: Arcanist
 ---
 
-          <p>A classic Daiquiri recipe with a herbacious twist</p>
-
-
 <div class="container">
       <section id="main_content">
         <ul>
@@ -18,6 +15,4 @@ title: Arcanist
     
 </ul>
 
-      </section>
-    </div>
-  </div>
+   
