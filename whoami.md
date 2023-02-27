@@ -24,13 +24,4 @@ title: whoami
   - Leatherwork
   - Tailoring
 
-<button onclick="<a href="https://twitter.com"><img src="/assets/twitter-logo.jpeg"></button> </a>
-
-<p id="intro"></p>
-
-<script>
-
-function someFunction() {
-    document.getElementById("intro").innerHTML = "{{ page.someContent }}";
-}
-</script>
+"<a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitter-logo.jpeg"></a>
