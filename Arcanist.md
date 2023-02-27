@@ -2,15 +2,20 @@
 layout: page
 title: Arcanist
 ---
+
+          <p>A classic Daiquiri recipe with a herbacious twist</p>
+
+
 <div class="container">
-   <section id="main_content">
+      <section id="main_content">
         <ul>
-<li>
+    
+      <li>
           <h2><a href="/Hemingway Daiquiri">Hemingway Daiquiri</a></h2>
           <time datetime="2023-02-20T15:22:38+00:00">26 Feb 2023</time>
           <p>A classic Daiquiri recipe with a herbacious twist</p>
-</li>     
-                  
+     </li>
+    
 </ul>
 
       </section>
