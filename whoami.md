@@ -30,12 +30,16 @@ title: whoami
 * * *
 {% highlight json %}
 {
+
 "Handle":"Sparkles",
+"Company":"SP/Arcanum LLC"
+"Email":"Sparkles@sparcanum.io",
+"Address":"Feywild",
 "Discord Username":"Sparkles#0722",
 "Mastodon Username":"@Sparkles@defcon.social",
 "Twitter Username":"Sparkles_34_32",
-"Github Username":"SparklesVX",
-"Email":"Sparkles@sparcanum.io",
+"Github Username":"SparklesVX"
+
 }
 {% endhighlight %}
 
