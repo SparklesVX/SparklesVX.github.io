@@ -40,4 +40,7 @@ title: whoami
 }
 {% endhighlight %}
 some text and [here is possible to download][1]
-[1]:{{ https://sparklesvx.github.io }}/download/detes.json
+
+<a href="/download/detes.json" download>
+  <img src="/assets/twitterlogo.jpg" alt="download">
+</a>
