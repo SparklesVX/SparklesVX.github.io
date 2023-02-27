@@ -36,11 +36,9 @@ title: whoami
 "Twitter Username":"Sparkles_34_32",
 "Github Username":"SparklesVX",
 "Email":"Sparkles@sparcanum.io",
-
 }
 {% endhighlight %}
-some text and [here is possible to download][1]
 
 <a href="/download/detes.json" download>
-  <img src="/assets/twitterlogo.jpg" alt="download">
+  <img src="/assets/foldericon.png" alt="download">
 </a>
