@@ -24,7 +24,7 @@ title: whoami
   - Leatherwork
   - Tailoring
 
-<button onclick="someFunction()"><img src="/assets/twitterlogo.jpg"></button>
+<button onclick="<a href="https://twitter.com"><img src="/assets/twitter-logo.jpeg"></button> </a>
 
 <p id="intro"></p>
 
