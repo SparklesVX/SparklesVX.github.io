@@ -37,7 +37,9 @@ title: whoami
 "Address":"Feywild",
 "Discord Username":"Sparkles#0722",
 "Mastodon Username":"@Sparkles@defcon.social",
-"Twitter Username":"Sparkles_34_32",
+"Twitter Username":"VX_Sparkles",
+"Instagram Username":"VX_Sparkles",
+"FL Username":"VX_Sparkles",
 "Github Username":"SparklesVX"
 
 }
