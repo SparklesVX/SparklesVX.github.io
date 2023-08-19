@@ -15,7 +15,6 @@ title: whoami
   <h1><a href="/Arcanist">Arcanist</a></h1>
 * * *
   - Neurodivergency
-  - BDSM/Kink
   - Mixology & Culinary Arts
  
  <h1><a href="/Artificer">Artificer</a></h1>
@@ -39,7 +38,7 @@ title: whoami
 "Mastodon Username":"@Sparkles@defcon.social",
 "Twitter Username":"VX_Sparkles",
 "Instagram Username":"VX_Sparkles",
-"FL Username":"VX_Sparkles",
+"Blue Sky Username":"vxsparkles@bsky.social",
 "Github Username":"SparklesVX"
 
 }
