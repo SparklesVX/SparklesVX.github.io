@@ -6,24 +6,12 @@ title: whoami
 <img src="/assets/SparklesLogo.png">
 
 
-<h1><a href="/Hacker">Hacker</a></h1>
-* * *
-  - Hardware
-  - Bio
-  - Reverse Engineering
+<h1><a href="/Hacker">whoami</a></h1>
 
-  <h1><a href="/Arcanist">Arcanist</a></h1>
-* * *
-  - Neurodivergency
-  - Mixology & Culinary Arts
- 
- <h1><a href="/Artificer">Artificer</a></h1>
-* * *
-  - Electronics
-  - Leatherwork
-  - Tailoring
+Who am I ? That is an excellent question, or perhaps what am I would be more apropos?
+Anarcho-Transhumanist, Scientist, Researcher, Hacker, Privacy Advocate, Transgender, Neurospicy {Autism, ADHD}, Chaotic Good. 
+All these and more would be accurate descriptors. 
 
-<a href="https://twitter.com/sparkles_34_32"><img src="/assets/twitterlogo.png"></a>
 
 <h1>Detes</h1>
 * * *
