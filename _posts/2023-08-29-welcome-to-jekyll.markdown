@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Rough Session"
 date:   2023-08-29 09:10:38 -0600
 categories: Life
 ---
