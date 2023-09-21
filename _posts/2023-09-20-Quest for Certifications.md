@@ -14,10 +14,10 @@ GF means, has that food item ever even so much as cast a sidewise glance at a wh
 So, what is one to do when trying to navigate their day-to-day life while also trying to maintain proper nutrition when every restaurant meal and grocery item is turned into the gastronomical equivalent of Russian roulette?  
 Why, food certification of course! If you are looking for an independent third-party who can audit and attest to the gluten levels of food products then you are in luck because we have three different such organizations, at least here in the US.  
 
-<h2> NSF <a href=https://www.nsf.org/ </a> </h2>
+<h2> [NSF](https://www.nsf.org/) </h2>
 
-<h2> Brand Reputation through Compliance (BRCGS)(https://www.brcgs.com/) </h2>
+<h2> [Brand Reputation through Compliance (BRCGS)](https://www.brcgs.com/) </h2>
 
-<h2> The Gluten-Free Certification Organization (GFCO)(https://gfco.org/) </h2>
+<h2> [The Gluten-Free Certification Organization (GFCO)](https://gfco.org/) </h2>
 
 Each of these organizations have their own accreditation process for manufacturers to obtain their GF certification stamp. Since these are entirely separate organizations, they each have their own standards and procedures, though there are many similarities and lots of overlap they are still unique to each organization. 
