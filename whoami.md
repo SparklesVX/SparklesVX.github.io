@@ -6,7 +6,7 @@ title: whoami
 <img src="/assets/SparklesLogo.png">
 
 
-<h1><a href="/Hacker">whoami</a></h1>
+<h1>whoami</h1>
  
 Sparkles (Fae/Faer)
 
